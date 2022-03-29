@@ -3,7 +3,7 @@
 ## How to install
 ---
 - Drop the folder inside your resources folder.
-- Add `start connectqueue` inside your server.cfg. - *Preferrably at the top*
+- Add `ensure connectqueue` inside your server.cfg. - *Preferrably at the top*
 
 ## Display QUEUE
 ---
