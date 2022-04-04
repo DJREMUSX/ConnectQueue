@@ -50,13 +50,13 @@ Config.ShowTemp = false
 Config.Language = {
     joining = "\xF0\x9F\x8E\x89Joining...",
     connecting = "\xE2\x8F\xB3Connecting...",
-    idrr = "\xE2\x9D\x97[Madrid Vice] Error: Couldn't retrieve any of your id's, try restarting.",
-    err = "\xE2\x9D\x97[Madrid Vice] There was an error",
+    idrr = "\xE2\x9D\x97[DJREMUS] Error: Couldn't retrieve any of your id's, try restarting.",
+    err = "\xE2\x9D\x97[DJREMUS] There was an error",
     pos = "\xF0\x9F\x90\x8CYou are %d/%d in queue \xF0\x9F\x95\x9C%s",
-    connectingerr = "\xE2\x9D\x97[Madrid Vice] Error: Error adding you to connecting list",
-    timedout = "\xE2\x9D\x97[Madrid Vice] Error: Timed out?",
-    wlonly = "\xE2\x9D\x97[Madrid Vice] You must be whitelisted to join this server",
-    steam = "\xE2\x9D\x97 [Madrid Vice] Error: Steam must be running"
+    connectingerr = "\xE2\x9D\x97[DJREMUS] Error: Error adding you to connecting list",
+    timedout = "\xE2\x9D\x97[DJREMUS] Error: Timed out?",
+    wlonly = "\xE2\x9D\x97[DJREMUS] You must be whitelisted to join this server",
+    steam = "\xE2\x9D\x97 [DJREMUS] Error: Steam must be running"
 }
 
 -- Messages /ES
@@ -64,13 +64,13 @@ Config.Language = {
 -- Config.Language = {
 --     joining = "\xF0\x9F\x8E\x89Entarndo...",
 --     connecting = "\xE2\x8F\xB3Conectando...",
---     idrr = "\xE2\x9D\x97[Madrid Vice] Error: No reconocemos tus IDs reincicia e intenta reconectarte.",
---     err = "\xE2\x9D\x97[Madrid Vice] Ha ocurrido un error",
+--     idrr = "\xE2\x9D\x97[DJREMUS] Error: No reconocemos tus IDs reincicia e intenta reconectarte.",
+--     err = "\xE2\x9D\x97[DJREMUS] Ha ocurrido un error",
 --     pos = "\xF0\x9F\x90\x8CEstas en la posicion numero %d/%d en la cola \xF0\x9F\x95\x9C%s",
---     connectingerr = "\xE2\x9D\x97[Madrid Vice] Error: No te podemos connectar de la lista, intenta con la IP",
---     timedout = "\xE2\x9D\x97[Madrid Vice] Error> Tiempo Agotado",
---     wlonly = "\xE2\x9D\x97[Madrid Vice] Tienes que estar en la whitelist de este servidor",
---     steam = "\xE2\x9D\x97 [Madrid Vice] Error: Steam tiene que estar abierto"
+--     connectingerr = "\xE2\x9D\x97[DJREMUS] Error: No te podemos connectar de la lista, intenta con la IP",
+--     timedout = "\xE2\x9D\x97[DJREMUS] Error> Tiempo Agotado",
+--     wlonly = "\xE2\x9D\x97[DJREMUS] Tienes que estar en la whitelist de este servidor",
+--     steam = "\xE2\x9D\x97 [DJREMUS] Error: Steam tiene que estar abierto"
 -- } 
 
 
